@@ -21,5 +21,5 @@ The Canny Edge Detection algorithm is used to identify the edges in images. It w
 
 ![image](https://github.com/user-attachments/assets/85aca8cc-702f-4234-8fdc-6378aee6c709)
 
+![image](https://github.com/user-attachments/assets/bed4a11b-75e4-44bd-a76a-b6eddcff8be7)
 
-![image](https://github.com/user-attachments/assets/94198312-3df6-41d5-a8c9-b38fd5952096)
